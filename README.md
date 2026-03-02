@@ -11,7 +11,7 @@ Simple Project using Node,Express,Mongodb and React.
 ![Home](images/Home.PNG)
 
 - **Add Your Movie Detail Here!!!**
-![Add Your Movie](images/Add.PNG)
+![Add Your Movie](MERN_test_set-A/images/Add.png)
 
 - **Update Your Movie Detail Here!!!**
 ![Update Your Movie information](images/Edit.png)
