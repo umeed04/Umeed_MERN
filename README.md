@@ -16,5 +16,5 @@ Simple Project using Node,Express,Mongodb and React.
 - **Update Your Movie Detail Here!!!**
 ![Update Your Movie information](images/Edit.png)
 
-- **Your movie page!!!**
+- **Movie page!!!**
 ![Added Movie](images/Show.png)
