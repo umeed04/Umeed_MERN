@@ -3,7 +3,7 @@
 ![Home Page](images\Home.png)
 
 -**Add Your Movie Detail Here!!!**
-![Add Your Movie](images\Add.png)
+![Add Your Movie](C:\Users\Admin\Desktop\Umeed_MERN\MERN_test_set-A\images\Add.png)
 
 -**Update Your Movie Detail Here!!!**
 ![Update Your Movie information](images\Edit.png)
